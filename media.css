@@ -266,4 +266,8 @@ body {
  }
 
 /* Extra Extra large devices (large desktops, 1400px and up)*/
-@media (min-width: 1400px)
+@media (min-width: 1400px) { 
+body {
+    padding-top: 122px;
+ }
+ }
