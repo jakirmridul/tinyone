@@ -252,18 +252,18 @@ footer{
 
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) { 
-	
+	body {
+    padding-top: 119px;
+ }
+
  }
 
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) and (max-width: 1399.98px) { 
 body {
-    padding-top: 122px;
+    padding-top: 120px;
  }
  }
 
 /* Extra Extra large devices (large desktops, 1400px and up)*/
 @media (min-width: 1400px)
-body {
-    padding-top: 122px;
- }
